@@ -1,4 +1,7 @@
 # README
+![Build Status](https://codeship.com/projects/22c8b510-0908-0135-65c0-72e222cc42c8/status?branch=master)
+![Coverage Status](https://coveralls.io/repos/LightningStairs/game-night/badge.png)
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
